@@ -23,7 +23,7 @@ The purpose of SemanticApp is to provide users with a tool for assessing how clo
 SemanticApp utilizes the following technologies:
 
 - [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity): A measure of similarity between two non-zero vectors.
-- [DistilBERT](https://huggingface.co/distilbert-base-nli-stsb-mean-tokens): A pretrained transformer model for natural language understanding.
+- [DistilBERT](https://huggingface.co/sentence-transformers/distilbert-base-nli-stsb-mean-tokens): A pretrained transformer model for natural language understanding.
 - [Streamlit](https://streamlit.io/): A Python library for creating interactive web applications.
 - [Python](https://www.python.org/): The programming language used for building the application.
 - [NumPy](https://numpy.org/): A library for numerical operations in Python.
@@ -43,7 +43,7 @@ SemanticApp utilizes the following technologies:
 
 ## Author
 
-SemanticApp is developed and maintained by [Your Name]. Feel free to reach out for questions, feedback, or contributions.
+SemanticApp is developed and maintained by Ajbar Alae in February 2024. Feel free to reach out for questions, feedback, or contributions at alae1ajbar@gmail.com
 
 ---
 

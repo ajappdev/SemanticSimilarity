@@ -1,6 +1,6 @@
 # SemanticApp
 
-SemanticApp is a web application that computes the semantic similarity between two text documents. Semantic similarity measures how much two texts discuss the same topics, considering the meaning behind the words rather than just their presence. The application utilizes state-of-the-art natural language processing techniques and models to provide accurate results.
+[SemanticApp](https://semanticapp-ajbaralae.streamlit.app/) is a web application that computes the semantic similarity between two text documents. Semantic similarity measures how much two texts discuss the same topics, considering the meaning behind the words rather than just their presence. The application utilizes state-of-the-art natural language processing techniques and models to provide accurate results.
 
 ## Table of Contents
 
